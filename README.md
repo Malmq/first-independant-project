@@ -1,1 +1,1 @@
-# first-independant-project
+# first-independent-project
